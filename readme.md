@@ -20,7 +20,7 @@ This basket qualifies for a 5% discount and the total price is $151.94
 
 ### Acknowledgements
 
-I got this kata from Emily Bache at sammancoaching.org [Link](https://sammancoaching.org/kata_descriptions/shopping_basket.html).
+I got this kata from Emily Bache at sammancoaching.org ([Link](https://sammancoaching.org/kata_descriptions/shopping_basket.html)).
 
 Emily Bache got it from Jason Gorman and changed it slightly.
 
